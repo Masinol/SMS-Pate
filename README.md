@@ -36,8 +36,6 @@ Vasemman laidan valikko: **Etusivu**, **Asiakkaat**, **Lähetä viestejä**,
 
 ## Kuvakaappaukset
 
-*(Lisää kuvatiedostot `screenshots`-kansioon alla olevilla nimillä, niin ne näkyvät automaattisesti tässä.)*
-
 **Etusivu**
 ![Etusivu](screenshots/etusivu.png)
 
